@@ -1,0 +1,6 @@
+seaborn
+pandas
+scikit-learn
+gcsfs
+google-cloud-storage
+fsspec
